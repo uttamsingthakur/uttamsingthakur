@@ -44,3 +44,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttamsingthakur&show_icons=true&locale=en" alt="uttamsingthakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamsingthakur&" alt="uttamsingthakur" /></p>
+
+
+
+<h3>Tech skills</h3>
+C# basics
+Java basics
+SQL
+GIT
+HTML
+CSS
+SCRUM
+Creating test cases
+Software testing
+Reporting bugs
+DevTools
+Finding unique CSS Selectors and xPaths
+Creating diagrams and decision tables
+UML
+PHP basics
+Ability to set up virtual machines (e.g. Linux)
